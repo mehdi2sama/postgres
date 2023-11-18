@@ -10,7 +10,8 @@
 *.so.[0-9]
 *.so.[0-9].[0-9]
 *.so.[0-9].[0-9][0-9]
-*.dylib
+*.dylib subdirectories
+*.o
 *.dll
 *.exp
 *.a
